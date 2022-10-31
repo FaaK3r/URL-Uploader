@@ -27,9 +27,9 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 - `AUTH_CHANNEL` For Force Subscribe. Paste your Update channel id (Eg: -100)
 
 ## Deploy to heroku 🗳
-Press the button Deploy to heroku and give the values for the config vars. 👇
+Press the button Deploy to heroku and give the values for the config vars. 👇 (https://telegram.dog/XTZ_HerokuBot?start=WmF1dGVLbS9VUkwtVXBsb2FkZXIgbWFzdGVy)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=WmF1dGVLbS9VUkwtVXBsb2FkZXIgbWFzdGVy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/FaaK3r/URL-Uploader)
 
 #### Run in your VPS
 ```sh
